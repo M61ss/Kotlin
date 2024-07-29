@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Knowledge of Java (core) programming language. 
+It is recommended the knowledge of Java (core) programming language. 
 
 ## Table of contents
 
