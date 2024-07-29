@@ -1,6 +1,10 @@
 # Kotlin notes <!-- omit from toc -->
 
-Table of contents:
+## Prerequisites
+
+Knowledge of Java (core) programming language. 
+
+## Table of contents
 
 - [Basics](1%20-%20Basics.md)
   - [Variables](1%20-%20Basics.md#variables)
